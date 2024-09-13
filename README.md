@@ -76,17 +76,6 @@ Experience the magic of GenAI as the script:
 
 ## 🤝 Contributing
 
-Join us in revolutionizing audio analysis! Your ideas and contributions can help push the boundaries of what's possible with GenAI and audio processing.
-
-## 🎓 Learn More
-
-Dive deeper into the world of Generative AI and audio processing:
-- [Introduction to Large Language Models](https://www.coursera.org/learn/introduction-to-large-language-models)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
-
-## 🤝 Contributing
-
 We're excited to welcome contributors to the GenAI Audio Insights project! Your expertise and creativity can help push the boundaries of AI-powered audio analysis. Here's how you can get involved:
 
 ### 🌟 Ways to Contribute
@@ -122,6 +111,15 @@ We're excited to welcome contributors to the GenAI Audio Insights project! Your 
 We value every contribution, big or small. Join our community and help shape the future of AI-powered audio analysis!
 
 For major changes, please open an issue first to discuss what you would like to change. Together, we can create something amazing! 🚀🎧🤖
+
+
+## 🎓 Learn More
+
+Dive deeper into the world of Generative AI and audio processing:
+- [Introduction to Large Language Models](https://www.coursera.org/learn/introduction-to-large-language-models)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
+
 
 ## 📜 License
 
