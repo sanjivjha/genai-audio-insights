@@ -1,0 +1,8 @@
+numpy==1.21.5
+librosa==0.9.1
+soundfile==0.10.3.post1
+boto3==1.26.90
+langchain-community==0.0.10
+langchain-aws==0.1.1
+requests==2.28.2
+noisereduce==2.0.1
